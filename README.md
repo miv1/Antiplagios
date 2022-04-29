@@ -1,0 +1,2 @@
+# Antiplagios
+Sistema para verificar si una tesis fue plagiada y su porcentage.
